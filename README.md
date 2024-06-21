@@ -12,6 +12,9 @@
   - [Built with](#built-with)
 - [Author](#author)
 
+## Demo
+![image](https://github.com/lauramejia900/landing-page-with-saas/blob/main/landing%20page.PNG)
+
 
 ## Features
 
